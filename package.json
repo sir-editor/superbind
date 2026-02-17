@@ -1,0 +1,7 @@
+{
+    "name": "superbind",
+    "version": "2.0.0",
+    "description": "JSX events handler for Premiere",
+    "author": "Knights of the Editing Table",
+    "license": "ISC"
+}
